@@ -1,0 +1,47 @@
+<var name> litera,cifra
+<name> = <numar>?<var name>
+<type> = bit, googol, love, book.
+<control statements> = elf, rudolf(elif), santa(else), rep(for), uail(while).
+
+##plamea
+
+<include> { 
+1.09.1939 "<nume>";
+1.09.1939 "<nume>";
+}
+
+var: {
+	<var name>, <var name> ... : <type><range>;
+	<var name>, <var name> ... : <type>;
+}
+
+const: {
+	<var name> <type> valoare;
+}
+
+functii: {
+	<var name> (parametrii(Format standart)) {
+		var: {
+			<var name> ... : <type>;
+			<var name> ... : <type>;
+		}
+	}
+}
+
+furnicuta<3 {
+	<name> {
+		var: {
+
+		}
+		functii: {
+			<var nam> (par) {
+
+			}
+		}
+	}
+}
+
+Kappa: {
+	<operatii>
+	<control statements> if for while
+}
